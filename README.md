@@ -1,4 +1,4 @@
-# Dzien-8-Python
+# Dzien-7-i-8-Python
 
 
 To mój pierwszy interaktywny program w Pythonie – prosty chatbot, który rozmawia z użytkownikiem, rozpoznaje komendy, obsługuje wiek i zapisuje historię rozmowy. 🐍💬
@@ -48,6 +48,7 @@ To mój pierwszy interaktywny program w Pythonie – prosty chatbot, który rozm
 
 ## 📂 Pliki w repozytorium
 
+- `ai_project.py` - program z początkami nauki AI
 - `chat_app.py` — główny program chatbota
 - `chat_history.txt` — zapis rozmowy z sesji
 
